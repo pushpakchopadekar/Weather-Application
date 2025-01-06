@@ -16,6 +16,9 @@ This is a simple Weather Application built using HTML, CSS, and JavaScript, leve
 - **JavaScript**: For functionality and API integration.
 - **Weather API**: To fetch real-time weather data.
 
+## Privew
+https://climatemap.netlify.app/
+
 ## Getting Started
 
 ### Prerequisites
@@ -40,10 +43,10 @@ This is a simple Weather Application built using HTML, CSS, and JavaScript, leve
 
 ### Configuration
 
-1. Sign up for an API key from [OpenWeatherMap](https://openweathermap.org/api) or your preferred weather API service.
+1. Sign up for an API key from [OpenWeatherMap](https://openweathermap.org/8cf5ac5621c8d0266298a149e49d7514) or your preferred weather API service.
 2. Replace the placeholder in the JavaScript file with your API key:
    ```javascript
-   const apiKey = "your_api_key_here";
+   const apiKey = "8cf5ac5621c8d0266298a149e49d7514";
    ```
 
 ## Usage
