@@ -28,7 +28,7 @@ This is a simple Weather Application built using HTML, CSS, and JavaScript, leve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+  https://github.com/pushpakchopadekar/Weather-Application.git
    ```
 
 2. Navigate to the project folder:
